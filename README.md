@@ -1,7 +1,3 @@
-Sure, here is your README with emojis for better visual appeal:
-
----
-
 # 🛒 Frontend E-Commerce Website Flipkart Using ReactJS
 
 Develop a frontend for an e-commerce website, similar to Flipkart, using ReactJS. The website includes features like user authentication, secure payment, order summary, delivery address selection, and responsive design.
